@@ -3,7 +3,7 @@ package sub2number;
 
 /**
  *
- * @author Tung
+ * @author Tran Duy Tung
  */
 public class Sub2Number {
 
